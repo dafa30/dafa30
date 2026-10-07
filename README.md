@@ -19,7 +19,7 @@ As a continuous learner, I thrive in dynamic environments and always open to exp
 ![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,js,nodejs,python,mysql,supabase,docker,git)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,github,github copilot,gpt,claude,grok)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,githubcopilot,chatgpt,claude,grok)
 
 ### Featured Projects
 
