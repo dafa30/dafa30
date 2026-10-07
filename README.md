@@ -1,20 +1,19 @@
 # Hi, I'm Dafa 👋
 
-### Informatics Engineering Graduate | Full-Stack Web Developer
+### Informatics Engineering Graduate · Full-Stack Web Developer
 
-I am an Informatics Engineering graduate with an interest in **web application development and software engineering**.
-
-I enjoy building web applications, developing backend functionality, integrating databases and APIs, and continuously improving my programming skills through projects and hands-on experience.
+Passionate about building practical web applications — from backend systems and database design to modern frontend experiences.  
+I enjoy turning real-world problems into clean, functional, and maintainable software.
 
 ---
 
 ## About Me
 
-- 🎓 Bachelor's Degree in Informatics Engineering
-- 💻 Focused on Full-Stack Web Development
-- 🌐 Interested in Web Applications & Software Development
-- 🚀 Currently improving my programming and software engineering skills
-- 📚 Always open to learning new technologies and development practices
+- 🎓 **Bachelor of Informatics Engineering**
+- 💻 Full-Stack Web Developer focusing on Laravel, Next.js & modern web technologies
+- 🛠️ Experienced in building internal systems, digital products, and ERP customizations
+- 🚀 Continuously learning and refining software engineering practices
+- 📍 Indonesia
 
 ---
 
@@ -30,46 +29,58 @@ I enjoy building web applications, developing backend functionality, integrating
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Tools
+### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### 🖥️ Web Correspondence Management System
-Web-based correspondence management application developed to improve document management, tracking, and organization.
+### 📄 [SITEMAN-SUCA — Correspondence Management System](https://github.com/dafa30/persuratan)
+Enterprise web application for managing incoming & outgoing correspondence with role-based access, document classification (regular / confidential / highly confidential), file storage, and internal workflow support.
 
-**Tech:** PHP, MySQL, HTML, CSS, JavaScript
+**Tech:** Laravel 11 · PHP 8.2 · MySQL · Tailwind CSS · Vite
 
-### 💍 Digital Wedding Invitation
-Interactive digital wedding invitation website with RSVP and wishes functionality.
+### 💍 [Digital Wedding Invitation](https://github.com/dafa30/undangan-pernikahan)
+Interactive digital wedding invitation with personalized guest names, countdown timer, photo gallery, background music, real-time RSVP & wishes (Supabase), and AI-powered wish polishing using Google Gemini.
 
-**Tech:** Next.js, React, TypeScript, Tailwind CSS, Supabase
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · Supabase · Framer Motion · Google Gemini
 
-### 🛒 Odoo 19 POS Customization
-Custom Odoo 19 module extending Point of Sale functionality with customer loyalty and reward management features.
+### 🛒 [Odoo 19 Smart POS & Loyalty Point](https://github.com/dafa30/odoo19-workshop)
+Custom Odoo 19 module that extends Point of Sale with a complete loyalty points system — earn points on transactions, redeem rewards, track history, and manage reward products with proper security groups.
 
-**Tech:** Odoo 19, Python, XML, PostgreSQL, Docker
+**Tech:** Odoo 19 · Python · XML · PostgreSQL · Docker
+
+### 🎫 [Tourism Ticket Booking System](https://github.com/dafa30/ticketing_wisata)
+Simple yet complete web application for browsing tourist destinations, booking tickets, calculating prices, and generating printable invoices.
+
+**Tech:** PHP · MySQL · HTML · CSS · JavaScript
+
+### 🛠️ [Internal Helpdesk Application](https://github.com/dafa30/aplikasi_helpdesk)
+Role-based helpdesk system (Admin, Employee, Technician) for creating, assigning, and tracking support tickets with status workflow.
+
+**Tech:** PHP Native · MySQL · Bootstrap · jQuery
 
 ---
 
 ## Let's Connect
 
-<p align="left">
-  <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dafa30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dafa-adi-raharjo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dafaadi2002@gmail.com)
 
 ---
 
-> Building, learning, and improving one project at a time.
+> Building practical solutions, one project at a time.
