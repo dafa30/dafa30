@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=160&text=Hi,%20I'm%20Dafa&fontSize=46&fontColor=00ff41&fontAlignY=42&animation=blinking&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=72&descColor=a3e635&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=160&text=Hi,%20I'm%20Dafa&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=blinking&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=70&descColor=93c5fd&section=header" />
 
 I'm **Dafa Adi Raharjo**, an Informatics Engineering graduate with a strong interest in full-stack web development.  
 I enjoy building practical web applications — from backend systems and database design to modern, user-friendly frontend experiences.
