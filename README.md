@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=180&text=Hi,%20I'm%20Dafa&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full-Stack%20Web%20Developer&descSize=24&descAlignY=75&descColor=93c5fd&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=160&text=Hi,%20I'm%20Dafa&fontSize=46&fontColor=00ff9f&fontAlignY=42&animation=blinking&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=72&descColor=e5e7eb&section=header" />
 
 I'm **Dafa Adi Raharjo**, an Informatics Engineering graduate with a strong interest in full-stack web development.  
 I enjoy building practical web applications — from backend systems and database design to modern, user-friendly frontend experiences.
@@ -16,10 +16,10 @@ As a continuous learner, I thrive in dynamic environments and always open to exp
 ![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,php,laravel)
 
 ### Other Tech Stacks
-![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,js,nodejs,python,mysql,postgres,supabase,docker,git)
+![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,js,nodejs,python,mysql,supabase,docker,git)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,github,postman,notion)
+![My Skills](https://skillicons.dev/icons?i=vscode,github,github copilot,gpt,claude,grok)
 
 ### Featured Projects
 
@@ -27,7 +27,7 @@ As a continuous learner, I thrive in dynamic environments and always open to exp
 |---------|-------------|------|
 | [**SITEMAN-SUCA**](https://github.com/dafa30/persuratan) | Correspondence Management System with role-based access & document classification | Laravel 11 · PHP · MySQL · Tailwind |
 | [**Digital Wedding Invitation**](https://github.com/dafa30/undangan-pernikahan) | Interactive invitation with RSVP, real-time wishes & AI polishing | Next.js · TypeScript · Supabase · Gemini |
-| [**Odoo 19 Smart POS**](https://github.com/dafa30/odoo19-workshop) | Custom POS module with Loyalty Point system | Odoo 19 · Python · PostgreSQL · Docker |
+| [**Odoo 19 Smart POS**](https://github.com/dafa30/odoo19-workshop) | Custom POS module with Loyalty Point system | Odoo 19 · Python · Docker |
 | [**Tourism Ticket Booking**](https://github.com/dafa30/ticketing_wisata) | Ticket booking system with invoice generation | PHP · MySQL · JavaScript |
 | [**Internal Helpdesk**](https://github.com/dafa30/aplikasi_helpdesk) | Role-based helpdesk for ticket management | PHP Native · MySQL · Bootstrap |
 
