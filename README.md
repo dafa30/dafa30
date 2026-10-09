@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Hi, I'm Dafa" width="85%" height="150">
+  <img src="assets/banner.jpg" alt="Hi, I'm Dafa" width="85%" height="90">
 </p>
 
 <br>
