@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/animasi.jpg" alt="Coding Animation" width="450">
+  <img src="assets/coding.jpg" alt="Coding Animation" width="450">
 </p>
 
 <br>
