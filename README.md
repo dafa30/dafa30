@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=160&text=Hi,%20I'm%20Dafa&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=blinking&desc=Full-Stack%20Web%20Developer&descSize=22&descAlignY=70&descColor=93c5fd&section=header" />
 I'm **Dafa Adi Raharjo**, an Informatics Engineering graduate with a strong interest in full-stack web development.
 I enjoy building practical web applications from backend systems and database design to modern, user-friendly frontend experiences.
-I focus on creating clean, maintainable, and functional software. My main stack includes **Laravel**, **Next.js**, **TypeScript**, **PHP**, and **Python**.
+I focus on creating clean, maintainable, and functional software. 
+
+My main stack includes **Laravel**, **Next.js**, **TypeScript**, **PHP**, and **Python**.
+
 As a continuous learner, I thrive in dynamic environments and always open to exploring new technologies and best practices in software engineering.
 <image-card alt="Mail Badge" src="https://img.shields.io/badge/-dafaadi2002@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white" ></image-card>
 <image-card alt="Linkedin Badge" src="https://img.shields.io/badge/-Dafa%20Adi%20Raharjo-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white" ></image-card>
