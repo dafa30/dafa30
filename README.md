@@ -7,7 +7,6 @@
     <a href="https://github.com/dafa30" target="_blank"><img src="https://img.shields.io/badge/GitHub-dafa30-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=dafa30&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/dafa30?style=flat-square&color=0284c7&label=Followers" alt="Followers" />
   </p>
 </div>
