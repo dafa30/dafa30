@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1120,55:0f2a43,100:0e7490&height=220&section=header&text=Dafa%20Adi%20Raharjo&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=scaleIn&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=62&descColor=67e8f9" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e1b4b,100:1d4ed8&height=230&section=header&text=Dafa%20Adi%20Raharjo&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=58&descColor=93c5fd" width="100%" alt="Header" />
 
   <a href="https://github.com/dafa30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=45&lines=Building+reliable+backends+%26+refined+interfaces;Laravel+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;Clean+architecture.+Thoughtful+design.+Real+impact." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=93C5FD&center=true&vCenter=true&width=640&height=45&lines=Building+reliable+backends+%26+refined+interfaces;Laravel+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;Clean+architecture.+Thoughtful+design.+Real+impact." alt="Typing animation" />
   </a>
 
   <p>
@@ -13,7 +13,8 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/followers/dafa30?style=flat-square&color=0e7490&label=Followers" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=dafa30&label=Profile+Views&color=1d4ed8&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/dafa30?style=flat-square&color=1d4ed8&label=Followers" alt="Followers" />
   </p>
 
 </div>
@@ -72,7 +73,7 @@ I'm an **Informatics Engineering graduate** and **Full-Stack Web Developer** who
 ### 📊 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/06b6d4/dafa30" alt="Dafa's GitHub Contributions" width="100%" />
+  <img src="https://ghchart.rshah.org/1d4ed8/dafa30" alt="Dafa's GitHub Contributions" width="100%" />
 </div>
 
 <br />
@@ -87,5 +88,5 @@ I'm an **Informatics Engineering graduate** and **Full-Stack Web Developer** who
 <div align="center">
   <i>“Good software is built with patience, curiosity, and care.”</i>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1120,55:0f2a43,100:0e7490&height=90&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e1b4b,100:1d4ed8&height=110&section=footer" width="100%" alt="Footer" />
 </div>
