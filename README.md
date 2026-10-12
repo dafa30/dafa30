@@ -13,7 +13,6 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=dafa30&label=Profile+Views&color=0e7490&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/dafa30?style=flat-square&color=0e7490&label=Followers" alt="Followers" />
   </p>
 
