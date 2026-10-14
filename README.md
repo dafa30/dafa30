@@ -44,7 +44,7 @@ I'm an **Informatics Engineering graduate** and **Full-Stack Web Developer** who
 #### Backend, Database & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,mysql,postgres,supabase,docker&theme=dark" alt="Backend & DevOps" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,mysql,supabase,docker&theme=dark" alt="Backend & DevOps" />
   </a>
 </p>
 
