@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e1b4b,100:1d4ed8&height=230&section=header&text=Dafa%20Adi%20Raharjo&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=58&descColor=93c5fd" width="100%" alt="Header" />
 
   <a href="https://github.com/dafa30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=93C5FD&center=true&vCenter=true&width=640&height=45&lines=Building+reliable+backends+%26+refined+interfaces;Laravel+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;Clean+architecture.+Thoughtful+design.+Real+impact." alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=93C5FD&center=true&vCenter=true&width=640&height=45&lines=Building+reliable+backends+%26+refined+interfaces;Laravel+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+PHP;Clean+architecture.+Thoughtful+design.+Real+impact." alt="Typing animation" />
   </a>
 
   <p>
