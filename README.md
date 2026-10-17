@@ -25,7 +25,7 @@
 I'm an **Informatics Engineering graduate** and **Full-Stack Web Developer** who enjoys turning complex requirements into clean, dependable products. I care about the details that users never see but always feel: sensible architecture, well-designed APIs, and interfaces that are fast and pleasant to use.
 
 - 🧭 **Philosophy:** Simple, maintainable code beats clever code
-- 🛠️ **Primary Stack:** Laravel · Next.js · React · TypeScript · PHP · Python
+- 🛠️ **Primary Stack:** Laravel · Next.js · React · TypeScript · PHP · MySQL
 - ⚡ **Focus Areas:** Scalable Architecture · API Design · Database Design · Performance Optimization
 - 🌱 **Currently Exploring:** Containerization (Docker) & modern backend workflows
 - 🤝 **Open To:** Collaboration, freelance projects, and new opportunities
